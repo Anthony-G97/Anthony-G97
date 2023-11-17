@@ -1,6 +1,8 @@
 <h1>Hi, I'm Anthony!</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Python Projects:</h2>
+- <b>Python Automation Challenges</b>
+  - [Praciting python gamified](insert link)
 
 <h2> 🤳 Connect with me:</h2>
 
