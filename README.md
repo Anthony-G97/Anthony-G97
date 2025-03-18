@@ -1,7 +1,8 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://www.linkedin.com/in/anthonygomez0920/">IT Professional</a>
+<h1>Hi, I'm Anthony! <br/><a href="https://www.linkedin.com/in/gomanthony">IT Professional</a>
 
 <h2>👨‍💻 IT Projects:</h2>
-
+- <b>Creating Azure Resource Group</b>
+  - [Creating first resource group](https://github.com/Anthony-G97/Anthony-G97/edit/main/README.md)
 <h2>📄Certification:</h2>
 
 - <b>Google Cybersecurity Certificate</b>
