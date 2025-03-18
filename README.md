@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Creating Azure Resource Group</b>
-  - [Creating first resourse group](https://coursera.org/share/3d7a68d4158bafa71b7e3b7bdfd641df) 
+  - [Creating first resourse group](https://github.com/Anthony-G97/Lab_One/blob/main/README.md) 
 
 <h2>📄Certification:</h2>
 
